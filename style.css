@@ -1,7 +1,25 @@
-body{
-    background:#0f172a;
-    color:white;
-    font-family:Arial;
-    text-align:center;
-    padding-top:100px;
+body {
+    margin: 0;
+    background: #0f172a;
+    color: white;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+h1 {
+    color: #38bdf8;
+    font-size: 48px;
+}
+
+h2 {
+    font-size: 32px;
+}
+
+p {
+    color: #cbd5e1;
+    font-size: 20px;
 }
